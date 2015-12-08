@@ -1,0 +1,30 @@
+{
+  "name": "fandomjs",
+  "version": "1.0.0",
+  "description": "Scraps and finds the highest quality videos.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddieiboy/fandomjs.git"
+  },
+  "keywords": [
+    "anime",
+    "video",
+    "scrap"
+  ],
+  "author": "Freddie Iboy <freddieiboy@gmail.com> (http://www.simplycolor.in/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freddieiboy/fandomjs/issues"
+  },
+  "homepage": "https://github.com/freddieiboy/fandomjs#readme",
+  "dependencies": {
+    "cheerio": "0.19.0",
+    "fs": "0.0.2",
+    "request": "2.67.0",
+    "url-parse": "1.0.5"
+  }
+}
